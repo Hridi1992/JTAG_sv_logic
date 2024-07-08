@@ -1,4 +1,3 @@
-zw
 // device ID
 `define DEVICE_ID 32'hDEADBEEF  // 12.1.1 (d)
 
