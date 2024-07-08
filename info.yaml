@@ -32,7 +32,7 @@ pinout:
   # Inputs
   ui[0]: "tms[0]"
   ui[1]: "tdi[1]"
-  ui[2]: "bse_tdo[2]"
+  ui[2]: "bsr_tdo[2]"
   ui[3]: "sys_clk[3]"
   ui[4]: ""
   ui[5]: ""
